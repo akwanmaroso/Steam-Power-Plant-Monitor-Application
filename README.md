@@ -1,5 +1,6 @@
 # Steam Power Plant Monitor Application
 
+This is simple distributed system with go
 Build with go, rabbitMQ, and postgres
 
 ## How to run
